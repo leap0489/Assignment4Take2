@@ -7,12 +7,17 @@ Template:       neve
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
 
-h2, h3 {
+h2 {
 	color: #00556F;
 	background-color: white
 }
 
 p {
 	color: 2F2F2F;
+	background-color: white
+}
+
+.wp-block-buttons {
+	color: #00556F;
 	background-color: white
 }
