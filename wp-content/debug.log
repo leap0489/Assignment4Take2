@@ -201,3 +201,8 @@ Stack trace:
 [28-Mar-2024 22:27:08 UTC] PHP Warning:  get_headers(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
 [28-Mar-2024 22:27:08 UTC] PHP Warning:  get_headers(): This function may only be used against URLs in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
 [28-Mar-2024 22:37:59 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[28-Mar-2024 22:50:30 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[28-Mar-2024 22:51:32 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[28-Mar-2024 22:51:50 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[28-Mar-2024 22:51:56 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[28-Mar-2024 22:52:03 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
