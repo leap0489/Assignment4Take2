@@ -65,3 +65,10 @@
 [28-Mar-2024 16:01:38 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
 [28-Mar-2024 16:02:20 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
 [28-Mar-2024 16:02:28 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[28-Mar-2024 16:03:28 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[28-Mar-2024 16:05:10 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[28-Mar-2024 16:05:15 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[28-Mar-2024 16:05:20 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[28-Mar-2024 16:16:39 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[28-Mar-2024 16:16:49 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[28-Mar-2024 16:17:08 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
