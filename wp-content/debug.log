@@ -51,3 +51,4 @@
 [28-Mar-2024 15:35:50 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 106496 bytes) in /wordpress/wp-includes/class-wp-theme.php on line 7
 [28-Mar-2024 15:35:51 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /wordpress/wp-content/themes/neve/vendor/codeinwp/themeisle-sdk/src/Modules/Licenser.php on line 962
 [28-Mar-2024 15:36:39 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[28-Mar-2024 15:42:41 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
