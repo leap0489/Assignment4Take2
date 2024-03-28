@@ -15,3 +15,7 @@ h2 {
 p {
 	color: 2F2F2F;
 }
+
+.wp-block-latest-posts__post-title {
+	color: #00556F
+}
