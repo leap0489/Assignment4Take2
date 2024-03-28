@@ -104,3 +104,19 @@
 [28-Mar-2024 17:14:14 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /wordpress/wp-content/themes/neve/vendor/codeinwp/themeisle-sdk/src/Modules/Licenser.php on line 44
 [28-Mar-2024 17:14:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-includes/class-wp-recovery-mode-email-service.php on line 20
 [28-Mar-2024 17:14:18 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/themes/neve/vendor/codeinwp/themeisle-sdk/src/Modules/Licenser.php on line 44
+[28-Mar-2024 17:15:47 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[28-Mar-2024 17:15:49 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[28-Mar-2024 17:15:53 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[28-Mar-2024 17:15:59 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[28-Mar-2024 17:18:22 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[28-Mar-2024 17:18:25 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[28-Mar-2024 17:18:36 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[28-Mar-2024 17:18:38 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[28-Mar-2024 17:18:42 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[28-Mar-2024 17:19:01 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[28-Mar-2024 17:19:02 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[28-Mar-2024 17:40:04 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[28-Mar-2024 17:40:12 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[28-Mar-2024 17:45:16 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[28-Mar-2024 17:47:08 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[28-Mar-2024 17:50:30 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
